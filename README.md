@@ -22,8 +22,6 @@ npx create-expo-app -t expo-template-blank-typescript
 > [!CAUTION]
 > The project path must not contain accents or whitespace.
 
-<br>
-
 ### Install missing or outdated Node modules
 ```
 npm i
