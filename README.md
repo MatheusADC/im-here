@@ -37,5 +37,5 @@ npx expo start
 <br>
 
 > [!CAUTION]
-> Check in the BIOS if the SVM Mode is enabled, if that option is available.
-> The virtualization software used for the Android Operating System was Android Studio.
+> - Check in the BIOS if the SVM Mode is enabled, if that option is available.
+> - The virtualization software used for the Android Operating System was Android Studio.
